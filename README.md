@@ -1,1 +1,0 @@
-# cazador-cazado.sh
